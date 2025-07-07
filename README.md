@@ -1,4 +1,5 @@
 # my-website
 Learn git 
-Auther-Prathmesh mali
+Auther-Prathmesh Vishwas Mali 
 update README.md
+
